@@ -1,0 +1,8 @@
+2021-06-22 10:51:47 INFO - 服务已启动,监听端口33380
+2021-06-22 10:51:51 INFO - message:IMMessage{addr='null', cmd='LOGIN', time=1624330311945, online=0, sender='Cover', receiver='null', content='null'}
+2021-06-22 10:51:52 INFO - 成功连接服务器,已执行登录动作
+2021-06-22 10:52:03 INFO - message:IMMessage{addr='null', cmd='LOGIN', time=1624330323585, online=0, sender='Cover', receiver='null', content='null'}
+2021-06-22 10:52:03 INFO - 成功连接服务器,已执行登录动作
+2021-06-22 11:04:25 INFO - message:IMMessage{addr='null', cmd='LOGIN', time=1624331065980, online=0, sender='Cover', receiver='null', content='null'}
+2021-06-22 11:04:26 INFO - 成功连接服务器,已执行登录动作
+2021-06-22 11:05:00 INFO - Socket Client: 与客户端断开连接:远程主机强迫关闭了一个现有的连接。
